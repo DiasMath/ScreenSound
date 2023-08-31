@@ -5,10 +5,9 @@ namespace Screen_Sound.Menus;
 
 internal class MenuAvaliarBanda : Menu
 {
-    public void Executar(Dictionary<string, Banda> bandasRegistradas)
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
-
-        Console.Clear();
+        base.Executar(bandasRegistradas);
         TituloDaOpcao("Avaliar Banda");
         Console.Write("Digite a Banda que deseja avaliar: ");
         string nomeDaBanda = Console.ReadLine()!;
