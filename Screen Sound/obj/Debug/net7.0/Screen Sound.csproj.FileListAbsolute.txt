@@ -3,7 +3,6 @@ C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen So
 C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.runtimeconfig.json
 C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.dll
 C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.pdb
-C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.csproj.AssemblyReference.cache
 C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.AssemblyInfoInputs.cache
 C:\Users\MATHEUS\OneDrive\Área de Trabalho\Aula Alura C#\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.AssemblyInfo.cs
