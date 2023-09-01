@@ -1,3 +1,3 @@
 # ScreenSound
 
-Projeto de estudos em C# .NET pela plataforma Alura.
+Projeto de Console para estudos estudos em .NET pela plataforma Alura.
