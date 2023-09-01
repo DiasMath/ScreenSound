@@ -19,7 +19,8 @@ internal class Program
         opcoes.Add(2, new MenuRegistrarAlbum());
         opcoes.Add(3, new MenuMostrarBandasRegistradas());
         opcoes.Add(4, new MenuAvaliarBanda());
-        opcoes.Add(5, new MenuExibirDetalhes());
+        opcoes.Add(5, new MenuAvaliarAlbum());
+        opcoes.Add(6, new MenuExibirDetalhes());
         opcoes.Add(-1, new MenuSair());
 
 
@@ -49,7 +50,8 @@ internal class Program
             Console.WriteLine("2 - Registrar o album de uma banda");
             Console.WriteLine("3 - Mostrar todas as bandas");
             Console.WriteLine("4 - Avaliar uma banda");
-            Console.WriteLine("5 - Exibir os detalhes de uma banda");
+            Console.WriteLine("5 - Avaliar um album");
+            Console.WriteLine("6 - Exibir os detalhes de uma banda");
             Console.WriteLine("-1 - Sair");
 
 

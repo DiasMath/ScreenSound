@@ -1,6 +1,6 @@
 ﻿namespace Screen_Sound.Modelos;
 
-internal class Banda
+internal class Banda : IAvaliavel
 {
 
     private List<Album> albuns = new List<Album>();
